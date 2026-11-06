@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "pecanwsme",
+  "versions": [
+    {
+      "commit": "e2478155475b7b3130ae62ed819570cde7f6a444",
+      "tag": "0.11.0",
+      "parsed_at": "2026-11-06T08:31:05.984354+00:00"
+    }
+  ]
+}
